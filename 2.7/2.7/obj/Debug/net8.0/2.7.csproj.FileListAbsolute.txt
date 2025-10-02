@@ -1,0 +1,14 @@
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\bin\Debug\net8.0\2.7.exe
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\bin\Debug\net8.0\2.7.deps.json
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\bin\Debug\net8.0\2.7.runtimeconfig.json
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\bin\Debug\net8.0\2.7.dll
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\bin\Debug\net8.0\2.7.pdb
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\obj\Debug\net8.0\2.7.GeneratedMSBuildEditorConfig.editorconfig
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\obj\Debug\net8.0\2.7.AssemblyInfoInputs.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\obj\Debug\net8.0\2.7.AssemblyInfo.cs
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\obj\Debug\net8.0\2.7.csproj.CoreCompileInputs.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\obj\Debug\net8.0\2.7.dll
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\obj\Debug\net8.0\refint\2.7.dll
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\obj\Debug\net8.0\2.7.pdb
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\obj\Debug\net8.0\2.7.genruntimeconfig.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.2\Progi\2.7\2.7\obj\Debug\net8.0\ref\2.7.dll
