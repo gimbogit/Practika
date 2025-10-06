@@ -1,0 +1,11 @@
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.5\Progi\5.4\5.4\bin\Debug\5.4.exe.config
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.5\Progi\5.4\5.4\bin\Debug\5.4.exe
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.5\Progi\5.4\5.4\bin\Debug\5.4.pdb
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.5\Progi\5.4\5.4\obj\Debug\5.4.csproj.AssemblyReference.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.5\Progi\5.4\5.4\obj\Debug\_5._4.Form1.resources
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.5\Progi\5.4\5.4\obj\Debug\_5._4.Properties.Resources.resources
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.5\Progi\5.4\5.4\obj\Debug\5.4.csproj.GenerateResource.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.5\Progi\5.4\5.4\obj\Debug\5.4.csproj.CoreCompileInputs.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.5\Progi\5.4\5.4\obj\Debug\5.4.exe
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.5\Progi\5.4\5.4\obj\Debug\5.4.pdb
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.5\Progi\5.4\5.4\obj\Debug\5.4.exe.config
