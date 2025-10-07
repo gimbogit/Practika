@@ -1,0 +1,59 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Employees">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Id" type="xs:int" />
+                <xs:element name="Name" type="xs:string" minOccurs="0" />
+                <xs:element name="Position" type="xs:string" minOccurs="0" />
+                <xs:element name="Department" type="xs:string" minOccurs="0" />
+                <xs:element name="BirthDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Salary" type="xs:decimal" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Employees" />
+        <xs:field xpath="Id" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Employees>
+    <Id>1</Id>
+    <Name>Руклинский Данила Александрович</Name>
+    <Position>Техник-программист</Position>
+    <Department>Системного администрирования</Department>
+    <BirthDate>2008-03-05T00:00:00+03:00</BirthDate>
+    <Salary>2000</Salary>
+  </Employees>
+  <Employees>
+    <Id>2</Id>
+    <Name>Костыгов Андрей Александрович</Name>
+    <Position>Доставщик воды</Position>
+    <Department>Борьба с морскими котиками</Department>
+    <BirthDate>2008-06-21T00:00:00+04:00</BirthDate>
+    <Salary>2500</Salary>
+  </Employees>
+  <Employees>
+    <Id>3</Id>
+    <Name>Логинов Даниил Юрьевич</Name>
+    <Position>Тестировщик ПО</Position>
+    <Department>Системного администрирования</Department>
+    <BirthDate>2008-03-05T00:00:00+03:00</BirthDate>
+    <Salary>100</Salary>
+  </Employees>
+  <Employees>
+    <Id>4</Id>
+    <Name>Питкевич Ярослав Басел</Name>
+    <Position>Разработчик ПО</Position>
+    <Department>Борьба с морскими котиками</Department>
+    <BirthDate>2007-09-10T00:00:00+04:00</BirthDate>
+    <Salary>1700</Salary>
+  </Employees>
+</NewDataSet>

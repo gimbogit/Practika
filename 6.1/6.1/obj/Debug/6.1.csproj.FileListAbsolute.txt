@@ -1,0 +1,10 @@
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.6\Progi\6.1\6.1\bin\Debug\6.1.exe.config
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.6\Progi\6.1\6.1\bin\Debug\6.1.exe
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.6\Progi\6.1\6.1\bin\Debug\6.1.pdb
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.6\Progi\6.1\6.1\obj\Debug\6.1.csproj.AssemblyReference.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.6\Progi\6.1\6.1\obj\Debug\_6._1.Properties.Resources.resources
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.6\Progi\6.1\6.1\obj\Debug\6.1.csproj.GenerateResource.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.6\Progi\6.1\6.1\obj\Debug\6.1.csproj.CoreCompileInputs.cache
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.6\Progi\6.1\6.1\obj\Debug\6.1.exe
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.6\Progi\6.1\6.1\obj\Debug\6.1.pdb
+K:\УЧЕБА3курс\Practika_Programmirovanie\Modul.6\Progi\6.1\6.1\obj\Debug\6.1.exe.config
